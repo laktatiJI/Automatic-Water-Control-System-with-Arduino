@@ -1,0 +1,15 @@
+Materials and Tools:
+
+Arduino: The main controller used to manage the system.
+ 
+Ultrasonic Sensor: Measures the distance of the hand from the faucet.
+ 
+5V Pump: Used to control the flow of water.
+ 
+5V Relay: Acts as a switch to turn the pump on and off.
+ 
+Battery: Provides power to the system.
+ 
+Wires: Connects all the components together.
+ 
+Faucet and Water: The actual system where water flow is controlled.
