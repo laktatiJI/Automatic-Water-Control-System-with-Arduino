@@ -1,0 +1,10 @@
+Pin 6: Connected to the relay that controls the 5V pump.
+Pin 7: Connected to the Trigger pin of the ultrasonic sensor.
+Pin 4: Connected to the Echo pin of the ultrasonic sensor.
+Battery: Connected to the Arduino and relay to provide power to the entire system.
+Pump: The pump is connected to the relay, which controls its operation based on the Arduino's signals.
+
+Description
+The Arduino acts as the central controller, connected to the 5V pump via a relay. The relay is connected to Pin 6 of the Arduino and controls the pump based on the signals received.
+The ultrasonic sensor is connected to Pin 7 (Trigger) and Pin 4 (Echo) of the Arduino to measure the distance of the hand from the faucet.
+The battery provides the necessary power to both the Arduino and the relay. 
